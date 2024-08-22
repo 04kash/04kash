@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Kashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=04kash&hide=stars)](https://github.com/04kash/github-readme-stats)
+[![Kashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=04kash&hide=stars&bg_color=0f0f0f&title_color=00ffe0&text_color=ff00ff&show_icons=true)](https://github.com/04kash/github-readme-stats)
 
 <!--
 **04kash/04kash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
